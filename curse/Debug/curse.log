@@ -1,0 +1,4 @@
+﻿  curse.cpp
+C:\Users\Вадим\Desktop\Логика\curse\curse.cpp(34,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Вадим\Desktop\Логика\curse\curse.cpp(240,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  curse.vcxproj -> C:\Users\Вадим\Desktop\Логика\curse\Debug\curse.exe
